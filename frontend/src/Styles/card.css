@@ -1,0 +1,104 @@
+.card{
+    border: 1px solid lightgray;
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+
+    height: 50%;
+    
+    
+    margin: 1.5rem;
+
+    
+    box-shadow: inset;    
+}
+.ss{
+  
+    padding: 4rem;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: larger;
+    margin: 1rem;
+}
+
+.card_p{
+    text-align: center;
+    line-height: 30px;
+    padding: 25px;
+}
+
+.flx{
+    display: flex;
+    margin-bottom: 0;
+    padding: 5rem;
+}
+
+.flx1{
+    display: flex;
+    
+    padding: 0rem 0rem 0rem 0rem ;
+    flex-direction: column;
+
+}
+
+.logo{
+    margin-bottom: 1rem;
+}
+
+.card_img{
+
+    width: 100%;
+    height: 50%;
+}
+
+.bigpic{
+    display: inline block;
+    margin: auto;
+    height: 35%;
+    width: 100%;
+    
+    
+}
+
+.pic{
+    display: inline block;
+    object-fit: cover;
+    width: 100%;
+    height: 35%;
+}
+
+
+#studentId{
+    border-radius: 5px;
+}
+
+.viewAttendanceBtn{
+    width: 150px;
+    height: 40px;
+    font-size: 12px;
+    position: relative;
+    top: -20px;
+    left: 95px;
+    margin-bottom: 12px;
+}
+
+.viewAttendance{
+    position: relative;
+    padding: 20px;
+}
+
+.attendanceBox{
+    background-color:azure;
+    height: 150px;
+    width: 90%;
+    padding: 20px;
+}
+
+.errBox{
+    padding: 20px;
+    background-color: #FC6C85;
+    font-weight: bold;
+}

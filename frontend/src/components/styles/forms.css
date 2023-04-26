@@ -1,0 +1,21 @@
+
+#Name, #age{
+   border-radius: 10px;
+   border: #F5F3F3;
+   height: 35px;
+   width: 100%;
+   padding-left:5%;
+   border: 1px solid grey;
+}
+#formloginbutton
+{
+    width : 40%;
+    height: fit-content;
+    padding:3%;
+    background-color: black;
+    color:white;
+    margin-left: 30%;
+    margin-top: 10%;
+    border-radius: 20px;
+    cursor: pointer;
+}
